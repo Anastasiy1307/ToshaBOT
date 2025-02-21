@@ -1,1 +1,1 @@
-worker: python hehe_bot.py 
+worker: python Tosha_Bot.py 
